@@ -1,0 +1,14 @@
+[
+  {
+    "package": "BradleyTerry2",
+    "oncran": true
+  },
+  {
+    "package": "gnm",
+    "oncran": true
+  },
+  {
+    "package": "PlackettLuce",
+    "oncran": true
+  }
+]
