@@ -5,9 +5,9 @@
 [submodule "BradleyTerry2"]
 	path = BradleyTerry2
 	url = https://github.com/hturner/bradleyterry2
-[submodule "gnm"]
-	path = gnm
-	url = https://github.com/hturner/gnm
 [submodule "PlackettLuce"]
 	path = PlackettLuce
 	url = https://github.com/hturner/plackettluce
+[submodule "gnm"]
+	path = gnm
+	url = https://github.com/hturner/gnm
